@@ -16,4 +16,4 @@ How to get started:
 ---
 
 The current scripts are tested to work with `easypost-7.4.2`
-EasyPost client library: {https://github.com/EasyPost/easypost-php}
+[`EasyPost Client Library`](https://github.com/EasyPost/easypost-php)
