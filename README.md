@@ -1,9 +1,14 @@
 # EasyPost PHP Test Scripts
 How to get started: 
 <ol>
-  <li>Start a local PHP server with the following command: </li>
 
-    php -S 127.0.0.1:8000
+  <li>Install the project:</li>
+
+    composer install
+
+  <li>Start a local PHP server: </li>
+
+    php -S localhost:8000 -t public
 
 </ol>
 
