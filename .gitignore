@@ -1,0 +1,7 @@
+# Composer dependencies
+composer.phar
+/vendor/
+/composer.lock
+
+# Environment and credentials
+.env

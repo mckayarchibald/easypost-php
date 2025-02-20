@@ -5,6 +5,8 @@ How to get started:
 
     php -S 127.0.0.1:8000
 
+</ol>
+
 ---
 
 The current scripts are tested to work with `easypost-7.4.2`
